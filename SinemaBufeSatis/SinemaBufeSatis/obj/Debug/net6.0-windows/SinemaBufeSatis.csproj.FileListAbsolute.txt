@@ -1,0 +1,17 @@
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\net6.0-windows\SinemaBufeSatis.exe
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\net6.0-windows\SinemaBufeSatis.deps.json
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\net6.0-windows\SinemaBufeSatis.runtimeconfig.json
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\net6.0-windows\SinemaBufeSatis.dll
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\bin\Debug\net6.0-windows\SinemaBufeSatis.pdb
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.csproj.AssemblyReference.cache
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.Form1.resources
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.csproj.GenerateResource.cache
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.AssemblyInfoInputs.cache
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.AssemblyInfo.cs
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.csproj.CoreCompileInputs.cache
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.dll
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\refint\SinemaBufeSatis.dll
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.pdb
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\SinemaBufeSatis.genruntimeconfig.cache
+C:\Users\huseyinkaradana\Documents\C#\SinemaBufeSatis\SinemaBufeSatis\obj\Debug\net6.0-windows\ref\SinemaBufeSatis.dll
